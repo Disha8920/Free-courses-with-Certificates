@@ -1,10 +1,10 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-[Website link](https://avinash201199.github.io/Free-courses-with-Certificates)
+[Website link- React](https://free-courses-with-certificates.netlify.app/)
 
 We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
-After many days of work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get the certificate to add it on your resume or on Linkedin.
+After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
 <br>
 <br>
 
@@ -12,13 +12,13 @@ After many days of work, I have collected some free courses with certificates of
 
 You can contribute in many ways in this repository
 
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present <br>
+3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+#### Note- Before contributing, please create an issue first so that I can assign you and you can start working on it.
 
 <br>
 <br>
@@ -38,7 +38,10 @@ Great Learning - Android Application Development<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/android-application-development<br>
 <br>
 Udemy- Become an Android Developer from Scratch<br>
-Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<br>
+Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/ <br>
+<br>
+Educba-Free Android App Development Course With Certification <br>
+Website- https://www.educba.com/software-development/courses/free-android-app-development-course/ <br>
 <br>
 </details>
 
@@ -47,6 +50,36 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<
 <br>
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
+<br>
+
+<br>
+Great Learning - Angular7 for beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
+<br>
+</details>
+
+</details>
+
+<details>
+<summary> Data Visualization</summary>
+<br>
+Coursera- Data Visualization using Tableau <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+</details>
+<details>
+<summary> Digital Marketing</summary>
+<br>The Fundamentals of Digital Marketing<br>
+Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
+<br>
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+<br>
+</details>
+<details>
+<summary> Become an Ethical Hacker</summary>
+<br>
+Great Learning- Become an Ethical Hacker <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
 </details>
 
@@ -85,6 +118,25 @@ About: A collection of AutoCAD practice drawings and projects<br>
 Link: https://www.udemy.com/course/autocad-2d-and-3d-practice-drawings/ <br>
 </details>
 <details>
+<summary>Augmented Reality</summary>
+<br>
+Coursera - Introduction to Augmented Reality and ARCore<br>
+Website-https://www.coursera.org/learn/ar<br>
+<br>
+</details>
+
+<details>
+<summary>Back-end Development</summary>
+<br>
+FreeCodeCamp - Back End Development and APIs<br>
+Website-https://www.freecodecamp.org/learn/back-end-development-and-apis<br>
+<br>
+Udacity - Intro to Backend<br>
+Website-https://www.udacity.com/course/intro-to-backend--ud171
+<br>
+</details>
+
+<details>
 <summary>Big Data</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
@@ -106,6 +158,14 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 </details>
 
 <details>
+<summary>Amazon Web Services (AWS)</summary>
+<br>
+Official Website<br>
+Website-https://explore.skillbuilder.aws/learn<br>
+<br>
+</details>
+
+<details>
 <summary>Blockchain Technology</summary>
 <br>
 COURSERA - Blockchain Basics<br>
@@ -121,7 +181,17 @@ DIGITALDEFYND - This page contains 10 best Blockchain free certification courses
 Website : https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser<br>
 <br>
 PLURALSIGHT - Blockchain-Principles and Practices<br>
-Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br>
+Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
+UDEMY - Free Blockchain Courses and Tutorials<br>
+Website : https://www.udemy.com/topic/blockchain/free/<br>
+CryptoZombies - Build DApps By Building Simple Games<br>
+Website : https://cryptozombies.io/ <br>
+ <br>
+LEARNWEB3.IO - Become a Web3 Developer <br>
+Website : https://learnweb3.io/dashboard <br>
+<br>
+Bitdegree - Learn Solidity with Space Doggo <br>
+Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
 </details>
 
 <details>
@@ -135,12 +205,44 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <br>
 </details>
 
+
+<details>
+<summary>GitHub Tutorial</summary>
+<br>GitHub Tutorial for Beginners <br>
+Website-https://skills.github.com/<br>
+<br>
+GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+</details>
+
+<details>
+<summary> Google Cloud </summary>
+<br> 30 Days of Google Cloud <br>
+Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
+<br> Google Cloud Platform for Begineers<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
+<br>
+</details>
+
 <details>
 <summary>C++</summary>
 <br>
 Sololearn- C++<br>
 Website- https://www.sololearn.com/learning/1051<br>
 <br>
+Udacity- C++<br>
+Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
+<br>
+Great Learning - Introduction to C++<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
+<br>
+ 
+ <br>
+Introduction to C++ course<br>
+Website - https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup
+<br>
+ 
 </details>
 
 <details>
@@ -148,6 +250,12 @@ Website- https://www.sololearn.com/learning/1051<br>
 <br>
 Sololearn- C#<br>
 Website- https://www.sololearn.com/learning/1080<br>
+<br>
+W3schools- C#<br>
+Website- https://www.w3schools.com/cs/cs_exam.php<br>
+<br>
+Desenvolvedor IO- Iniciando com ASP.NET Core<br>
+Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
 </details>
 
@@ -176,6 +284,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+Careers360- Cloud Computing<br>
+Website-https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course<br>
+<br>
 
 </details>
 
@@ -194,6 +305,11 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cy
 GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
 <br>
+Information Security<br>
+Website-https://www.freecodecamp.org/learn/information-security/<br>
+<br>
+<br>
+
 </details>
 
 <details>
@@ -276,6 +392,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
 <br>
+upGrad- Data Structures and Algorithms for Interview Preparation<br>
+Website-https://www.upgrad.com/us/free-courses/<br>
+<br>
 </details>
 
 <details>
@@ -302,7 +421,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 <br>
 Sololearn - Go<br>
 Website-https://www.sololearn.com/learning/1164<br>
-<br> 
+ <br>
+GO Programming Language<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language<br> 
+ <br>
 </details>
 
 <details>
@@ -325,6 +447,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 <br>
 upGrad- Core Java Basics<br>
 Website-https://learn.upgrad.com/course/1373<br>
+<br>
+Infosys SpringBoard- Java Programming<br>
+Website-https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_29959473947367270000_shared%2Foverview<br>
 <br>
 </details>
 
@@ -372,8 +497,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 <details>
 <summary>Machine Learning</summary>
 <br>
-Sololearn - Machine Learning<br>
+Google Developer Club -Machine Learning Crash Course<br>
 Website-https://www.sololearn.com/learning/1094<br>
+<br>
+Sololearn - Machine Learning<br>
+Website-https://developers.google.com/machine-learning/crash-course<br>
 <br>
 GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
@@ -394,6 +522,11 @@ ML with python by free code camp dot org
 <br>
 website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
+DataTalksClub: ML Zoomcamp<br>
+Website- https://airtable.com/shryxwLd0COOEaqXo<br>
+<br>
+KAGGLE- Introduction to machine learning plus other machine learning courses<br>
+Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
 </details>
 
 <details>
@@ -484,6 +617,17 @@ Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 Udemy- Python OOP : Object Oriented Programming in Python<br>
 Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 <br>
+Great Learning - Python Fundamentals for Beginners <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
+<br>
+ <br>
+edX - CS50's Introduction to Programming with Python <br>
+Website -https://www.edx.org/
+<br>
+<br>
+Simplilearn - Introduction to Programming with Python 3x <br>
+Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
+<br>
 
 </details>
 
@@ -505,6 +649,16 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matpl
 GREAT LEARNING ACADEMY- Python Pandas<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
 <br>
+Coursera - Python for Everybody Specialization <br>
+Website-https://www.coursera.org/specializations/python?action=enroll<br>
+<br>
+Coursera - Crash Course on Python<br>
+Website - https://www.coursera.org/learn/python-crash-course<br>
+<br>
+<br>
+Udemy - Introduction to Flask<br>
+Website - https://www.udemy.com/course/introduction-to-flask/<br>
+<br>
 </details>
 
 <details>
@@ -525,6 +679,14 @@ Free Code Camp offers certifcations for react:
 https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 <br>
 <br>
+Infosys SpringBoard - ReactJS
+Website - https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_10648877150323546000_shared%2Foverview
+<br>
+<br>
+React the complete guide including Redux with certificate - Udemy
+Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+<br>
+<br>
 
 </details>
 
@@ -534,6 +696,17 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 Sololearn - Ruby<br>
 Website-https://www.sololearn.com/learning/1081<br>
 <br>
+Udemy - Complete Ruby Tutorial for Beginners<br>
+Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
+<br>
+</details>
+
+<details>
+  <summary>Software Testing</summary>
+  <br>
+  Udemy - Test Automation using Selenium<br>
+  Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
+  <br>
 </details>
 
 <details>
@@ -541,6 +714,15 @@ Website-https://www.sololearn.com/learning/1081<br>
 <br>
 Sololearn - SQL<br>
 Website-https://www.sololearn.com/learning/1060<br>
+<br>
+<br>
+Udemy - Advanced Databases and SQL Querying<br>
+Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
+<br>
+<br>
+cognitiveclass.ai - SQL and Relational Databases 101
+<br>
+Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
 <br>
 </details>
 
@@ -557,6 +739,14 @@ Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
 GREAT LEARNING ACADEMY- Data Visualization using Tableau<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau<br>
+<br>
+<br>
+UDACITY- Data Visualization using Tableau<br>
+https://www.udacity.com/course/data-visualization-in-tableau--ud1006
+<br>
+<br>
+COURSERA- Data Visualization and Communication with Tableau<br>
+https://www.coursera.org/learn/analytics-tableau
 <br>
 </details>
 
@@ -624,6 +814,8 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
   
 </details>
 
+
+
 <details>
 <summary>Introduction to Computer Science</summary>
 <br>
@@ -640,3 +832,61 @@ edX- An introduction to the intellectual enterprises of computer science and the
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
 </details>
+
+
+<details>
+<summary>Front-end Development</summary>
+<br>
+Coursera-  Introduction to HTML5<br>
+Website- https://www.coursera.org/learn/html<br>
+<br>
+CodeStudio-  Fundamentals of HTML<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-html<br>
+<br>
+CodeStudio - Fundamentals of  CSS<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css<br>
+<br>
+CodeStudio - Basics Of Javascript<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript<br>
+<br>
+CodeStudio- Basics of React<br>
+Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
+<br>
+CodeStudio- Basics of Angular<br>
+Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
+<br>
+</details>
+
+<details>
+<summary>CYBER-Security-IIRS </summary>
+<br>
+INDIAN INSITUTE OF REMOTE SENSING <br>
+Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
+<br>
+</details>
+
+
+<details>
+<summary>Power BI for Beginners</summary>
+<br>
+SimpliLearn <br>
+Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br>
+<br>
+Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more. 
+ <br>
+</details>
+
+<details>
+<summary>Digital Marketing</summary>
+<br>
+Great Learning - Introduction to Digital Marketing<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
+<br>
+Great learning - Statistics for Machine Learning<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-machine-learning<br>
+<br>
+simplilearn - Business Intelligence Fundamentals<br>
+Website-https://www.simplilearn.com/free-business-intelligence-course-online-skillup <br>
+<br>
+</details>
+
